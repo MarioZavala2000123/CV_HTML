@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Curriculum General</title>
+</head>
+<body>
+<h1> H1 LINEA </h1>
+<h2> H2 LINEA </h2>
+<p> P LINEA </p>
+</body>
+</html> 
