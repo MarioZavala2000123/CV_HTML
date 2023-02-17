@@ -1,8 +1,19 @@
+:root{
+  --centrar: 50px;
+}
+
 body{
   background: rgb(59,237,255);
-background: linear-gradient(90deg, rgba(59,237,255,1) 0%, rgba(106,160,251,1) 50%, rgba(0,212,255,1) 100%);
+  background: linear-gradient(90deg, rgba(59,237,255,1) 0%, rgba(106,160,251,1) 50%, rgba(0,212,255,1) 100%);
+  margin-left: 20px;
 }
 
 h3{
   font-family: 'Courier New', Courier, monospace;
+  text-decoration: underline;
+}
+
+h3.maestro{
+  font-size: 15px;
+  margin-left: var(--centrar);
 }
